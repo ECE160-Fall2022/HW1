@@ -1,6 +1,6 @@
 ## Question 5
 
-Compute and print the perimeter (circumference) of a 18 inch Two Bros pizza pie.
+Compute and print the perimeter (circumference) of a 20 inch Two Bros pizza pie.
 
 Use pi=3.1415
 
