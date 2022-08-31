@@ -17,8 +17,9 @@ Please follow the instructions carefully. Note: failure to do so will result in 
 1. Go to the github classrooms link provided.  
 2. Create a team (individual or a pair).  
 3. Clone the repository to your unix environment and create a separate submission branch. If you're working in a pair, you may work on the same branch or on separate branches. But when submitting your homework, please consolidate your submission into 1 branch.
-4. Push your submission branch to the repo.
-5. Create a pull request against the master. **Do not merge to master as it will prevent anyone from giving you a review or comments**
+4. For each question, put your solution in that directory with the following naming convention: q#.sh or q#.c or q#.py depending on the language. Don't forget to update the README to document how to run the program and the output.
+5. Push your submission branch to the repo.
+6. Create a pull request against the master. **Do not merge to master as it will prevent anyone from giving you a review or comments**
 
 For all questions, you must do the following:
 * Submit compile-able code
