@@ -2,4 +2,6 @@
 
 Write a C program that will print out your favorite quote 3 times.
 
+How to Compile/Run:
+
 Output:
