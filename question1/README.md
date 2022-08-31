@@ -10,4 +10,6 @@ Write a shell script that does the following:
 
 Hint: "../" goes back one directory
 
+How to Compile/Run:
+
 Output:
